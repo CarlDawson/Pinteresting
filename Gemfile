@@ -17,6 +17,8 @@ gem 'jquery-rails'
 gem 'bootstrap-sass'
 
 gem 'devise', '~> 3.5.3'
+ 
+gem 'paperclip', github: 'thoughtbot/paperclip'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
