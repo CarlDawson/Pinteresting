@@ -5,4 +5,5 @@ class CreatePins < ActiveRecord::Migration
 
       t.timestamps
     end
+  end
 end
