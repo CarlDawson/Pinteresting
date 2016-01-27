@@ -24,6 +24,8 @@ gem 'aws-sdk', '< 2.0'
 
 gem 'masonry-rails', '~> 0.2.0'
 
+gem 'will_paginate', '~> 3.0.6'
+gem 'will_paginate-bootstrap'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.0'
